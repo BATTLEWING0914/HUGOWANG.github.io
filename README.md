@@ -3,7 +3,6 @@
 <html>
     <head>
         <meta charset="UTF-8"/><!--網頁編碼-->
-        <title>常用網站</title><!--標題-->
     </head>
     <body>
         <table><!--表格-->
